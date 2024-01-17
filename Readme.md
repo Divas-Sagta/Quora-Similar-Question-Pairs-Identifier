@@ -1,10 +1,3 @@
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Divas-Sagta/Quora-Similar-Question-Pairs-Identifier.git
-git push -u origin main
+A NLP project to find weather given 2 questions are same are not semantically speaking.
 
-git remote add origin https://github.com/Divas-Sagta/Quora-Similar-Question-Pairs-Identifier.git
-git branch -M main
-git push -u origin main
+Dataset Link - https://www.kaggle.com/c/quora-question-pairs
